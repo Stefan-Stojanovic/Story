@@ -16,7 +16,7 @@ inAlgoPool: false
 
 links:
   - '[ponyfoo.com](https://ponyfoo.com/articles/es6-math-additions-in-depth){website}'
-  - '[stackoverflow.com](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array){website}'
+
 
 ---
 # Math Extensions
