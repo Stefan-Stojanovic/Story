@@ -16,7 +16,7 @@ inAlgoPool: false
 
 links:
   - '[ponyfoo.com](https://ponyfoo.com/articles/es6-math-additions-in-depth){website}'
-
+  - '[stackoverflow.com](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array){website}'
 
 ---
 # Math Extensions
@@ -25,7 +25,7 @@ links:
 ## Content
 
 Since its creation, the `Math` object has been expanded to provide a great deal of functionality. Although many of the additions have very specific use cases, for this insight we will take a look at those that you are more likely to use in every day development.
-
+asd
 ### Math.trunc
 
 `Math.trunc` will drop any numbers after the decimal point whether the number is positive or negative.
